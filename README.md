@@ -1,2 +1,2 @@
 # NetworkResilence
-Codes, Algorithms, and packages for enhance network resilience
+Codes, Algorithms, and packages for enhancing Cyber Physical networks resilience
