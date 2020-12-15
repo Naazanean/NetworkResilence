@@ -17,4 +17,5 @@ For the warm up, you might use [Network-Generation.py](NetworkResilence/Network-
 - Tree
 - Diamond
 - Double U
+
 Each network topology includes a certain number of nodes, links. Further you can use [Network-Measures.py](NetworkResilence/Network-Measures.py) to calculate thenumbr of cycles, Betta index, Gamma index, and average shortest path
